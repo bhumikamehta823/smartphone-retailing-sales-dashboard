@@ -50,12 +50,6 @@ Compares sales performance across different days of the week.
 - Data Visualization
 - Data Analysis
 
-## Project Files
-
-- `Dashboard/` – Power BI dashboard file
-- `Dataset/` – Source dataset
-- `Screenshots/` – Dashboard preview
-- `Documentation/` – Additional project documentation
 
 ## Key Learnings
 

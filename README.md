@@ -8,7 +8,7 @@ The objective is to transform raw sales data into meaningful insights through in
 
 ## Dashboard Preview
 
-![Smartphone Retail Sales Dashboard](Screenshots/Smartphone_Retail_Dashboard.jpg)
+![Smartphone Retailing Sales Dashboard](Smartphone%20Retailing%20Sales%20Dashboard.JPG)
 
 ## Key Performance Indicators (KPIs)
 
